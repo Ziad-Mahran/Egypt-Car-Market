@@ -2,8 +2,7 @@
 
 A machine-learning project that estimates a fair price for a used car in Egypt , suggest listings for buyers and groups the market into segments. It covers the whole workflow: data collection, cleaning, EDA, preprocessing pipelines, model training and tuning, clustering, and a bilingual (English/Arabic) Streamlit app.
 
-**Live demo:** *Link will be added soon*
-
+**Live demo:** https://egypt-car-market.streamlit.app/
 
 ## What it does
 
